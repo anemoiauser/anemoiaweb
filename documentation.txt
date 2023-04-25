@@ -1,0 +1,12 @@
+Project name: anemoia-new-web
+
+Environment: LocalWP 6.7.0+6347
+PHP Version: 8.1.9
+Web Server: nginx
+Database: MySQL 8.0.16
+WordPress Version: 6.2
+
+Login Credential:
+  Username: student number starts with 's'
+  Password: password (please change to the password you want after login)
+
